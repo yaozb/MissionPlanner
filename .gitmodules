@@ -1,4 +1,4 @@
 [submodule "ExtLibs/mono"]
 	path = ExtLibs/mono
-	url = https://github.com/meee1/mono.git
+	url = git@github.com:yaozb/mono.git
 	shallow = true
